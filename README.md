@@ -2,7 +2,7 @@
 A desktop Data Analytics application built with Python that allows non-technical users to analyze CSV and Excel datasets without writing Python code.
 The application provides an easy-to-use graphical interface for loading data, viewing dataset information, generating reports, creating charts, previewing results, and exporting reports.
 ## Application Preview
-![Application Preview](data-analyzer-python.jpg)
+![Application Preview](assets/data-analyzer-python.jpg)
 ## Features
 - Load CSV and Excel files
 - User-friendly graphical interface
